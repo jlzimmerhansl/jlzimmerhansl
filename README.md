@@ -1,16 +1,16 @@
-### Hi there 👋
+<img
+	src="https://github.com/jlzimmerhansl/jlzimmerhansl/blob/master/code_development_.svg?raw=true"
+	width="400px"
+	height="290px"
+	align="right"
+/>
+## Hi there, I'm Jéssica! Let me presente a little about myself... 👋
 
-<!--
-**jlzimmerhansl/jlzimmerhansl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm designer and Front-End Developer. :computer:
 
-Here are some ideas to get you started:
+:yellow_heart: I love technology and the amazing things we can do with it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlzimmerhansl)](https://github.com/jlzimmerhansl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/jessica-zimmerhansl)](linkedin.com/in/jessica-zimmerhansl)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jlzimmerhansl@gmail.com)](mailto:jlzimmerhansl@gmail.com)
