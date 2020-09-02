@@ -8,7 +8,7 @@
 
 I'm designer and Front-End Developer. :computer:
 
-:yellow_heart:  I love technology and the amazing things we can do with it.
+I love technology and the amazing things we can do with it. :yellow_heart:
 
 ---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlzimmerhansl)](https://github.com/jlzimmerhansl)
