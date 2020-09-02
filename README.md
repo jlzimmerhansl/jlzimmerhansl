@@ -4,7 +4,7 @@
 	height="290px"
 	align="right"
 />
-## Hi there, I'm Jéssica! Let me presente a little about myself... 👋
+## Hi there, I'm Jéssica! Let me present a little about myself... 👋
 
 I'm designer and Front-End Developer. :computer:
 
