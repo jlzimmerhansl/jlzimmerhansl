@@ -12,5 +12,5 @@ I love technology and the amazing things we can do with it. :yellow_heart:
 
 ---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlzimmerhansl)](https://github.com/jlzimmerhansl)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jessica-zimmerhansl)](www.linkedin.com/in/jessica-zimmerhansl)
+[![Linkedin Badge](https://img.shields.io/badge/JessicaZimmerhansl-blue?style=flat&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/jessica-zimmerhansl) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jlzimmerhansl@gmail.com)](mailto:jlzimmerhansl@gmail.com)
