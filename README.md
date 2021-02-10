@@ -6,7 +6,7 @@
 />
 ## Hi there, I'm Jéssica! Let me present a little about myself... 👋
 
-I'm designer and Front-End Developer. :computer:
+I'm Developer and Designer. :computer:
 
 I love technology and the amazing things we can do with it. :yellow_heart:
 
